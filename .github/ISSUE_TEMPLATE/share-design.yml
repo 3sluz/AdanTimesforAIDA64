@@ -1,0 +1,70 @@
+name: "🎨 شارك تصميمك | Share Your Design"
+description: "شارك تصميم SensorPanel أو Rainmeter Skin الخاص بك مع المجتمع"
+title: "[Design] "
+labels: ["design", "community"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🎨 شكرًا لمشاركة تصميمك! | Thanks for sharing your design!
+        املأ النموذج أدناه وأرفق صورة وملف التصميم.
+        Fill out the form below and attach a screenshot and the design file.
+
+  - type: input
+    id: design-name
+    attributes:
+      label: "📝 اسم التصميم | Design Name"
+      description: "اختر اسمًا لتصميمك"
+      placeholder: "مثال: Islamic Dark Theme"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tool
+    attributes:
+      label: "🔧 الأداة المستخدمة | Tool Used"
+      options:
+        - AIDA64 SensorPanel
+        - Rainmeter
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "📸 صورة التصميم | Design Screenshot"
+      description: "اسحب وأفلت الصورة هنا، أو الصقها مباشرة | Drag & drop your screenshot here, or paste it directly"
+      placeholder: "اسحب الصورة هنا..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: design-file
+    attributes:
+      label: "📦 ملف التصميم | Design File"
+      description: |
+        أرفق ملف التصميم هنا:
+        - AIDA64: اذهب إلى SensorPanel → Export → احفظ الملف (.sensorpanel) ثم اسحبه هنا
+        - Rainmeter: اضغط بزر الفأرة الأيمن على Skin → Export → احفظ الملف (.rmskin) ثم اسحبه هنا
+
+        Attach your design file here:
+        - AIDA64: Go to SensorPanel → Export → save file (.sensorpanel) then drag it here
+        - Rainmeter: Right-click Skin → Export → save file (.rmskin) then drag it here
+      placeholder: "اسحب الملف هنا..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "📋 وصف التصميم (اختياري) | Description (optional)"
+      description: "أخبرنا عن تصميمك — ما الذي يميزه؟ | Tell us about your design — what makes it special?"
+      placeholder: "مثال: تصميم داكن بألوان إسلامية مع خط عربي أنيق..."
+
+  - type: input
+    id: author
+    attributes:
+      label: "👤 اسمك أو معرّفك | Your name or handle"
+      description: "كيف تريد أن نذكرك في قائمة التصاميم المميزة؟"
+      placeholder: "مثال: @username أو اسمك"

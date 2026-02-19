@@ -345,31 +345,51 @@ Example SensorPanel Layout:
 
 <div dir="rtl">
 
-### 💫 أنشأت واجهة جميلة؟ شاركها مع المجتمع!
+### 💫 أنشأت واجهة جميلة؟ شاركها مع المجتمع بضغطة واحدة!
 
-نريد أن نرى إبداعاتكم! إذا صممت **SensorPanel** أو **Rainmeter Skin** تعرض أوقات الصلاة بشكل جميل، شاركها معنا ومع المجتمع ليستفيد الجميع.
-
-**كيف تشارك تصميمك:**
-
-1. 📸 التقط **صورة** أو **فيديو** لتصميمك النهائي
-2. 📦 صدّر ملف **SensorPanel** (من AIDA64) أو ملف **Skin** (من Rainmeter)
-3. 📝 أنشئ **Issue** أو **Discussion** في هذا المستودع بعنوان مثل: `[Design] اسم تصميمك`
-4. أرفق الصورة وملف التصميم
-5. ✨ سيتم عرض أفضل التصاميم هنا!
+نريد أن نرى إبداعاتكم! إذا صممت **SensorPanel** أو **Rainmeter Skin** تعرض أوقات الصلاة بشكل جميل، شاركها معنا ليستفيد الجميع.
 
 </div>
 
-### 💫 Created a beautiful panel? Share it with the community!
+### 💫 Created a beautiful panel? Share it with one click!
 
-We want to see your creativity! If you've designed a **SensorPanel** or **Rainmeter Skin** that displays prayer times beautifully, share it with us and the community so everyone can benefit.
+We want to see your creativity! If you've designed a beautiful prayer times panel, share it with the community.
 
-**How to share your design:**
+<div align="center">
 
-1. 📸 Take a **screenshot** or **video** of your final design
-2. 📦 Export your **SensorPanel** file (from AIDA64) or **Skin** file (from Rainmeter)
-3. 📝 Create an **Issue** or **Discussion** in this repository titled something like: `[Design] Your Design Name`
-4. Attach the screenshot and the design file
-5. ✨ The best designs will be featured here!
+### 👇 اضغط الزر لمشاركة تصميمك | Click the button to share your design 👇
+
+[![Share Your Design](https://img.shields.io/badge/🎨_شارك_تصميمك_|_Share_Your_Design-brightgreen?style=for-the-badge&logo=github)](https://github.com/3sluz/AdanTimesforAIDA64/issues/new?template=share-design.yml)
+
+</div>
+
+<div dir="rtl">
+
+**ماذا سيحدث عند الضغط؟**
+1. سيُفتح نموذج جاهز على GitHub
+2. اكتب اسم تصميمك
+3. اختر الأداة (AIDA64 أو Rainmeter)
+4. **اسحب وأفلت** صورة التصميم في المكان المخصص
+5. **اسحب وأفلت** ملف التصميم (`.sensorpanel` أو `.rmskin`)
+6. اضغط **Submit** — وانتهى! ✅
+
+**كيف تصدّر ملف التصميم؟**
+- **AIDA64:** اذهب إلى `SensorPanel → Export` واحفظ الملف
+- **Rainmeter:** اضغط بزر الفأرة الأيمن على الـ Skin → `Export` واحفظ الملف
+
+</div>
+
+**What happens when you click?**
+1. A ready-made form opens on GitHub
+2. Type your design name
+3. Choose the tool (AIDA64 or Rainmeter)
+4. **Drag & drop** your design screenshot into the designated area
+5. **Drag & drop** your design file (`.sensorpanel` or `.rmskin`)
+6. Click **Submit** — and you're done! ✅
+
+**How to export your design file?**
+- **AIDA64:** Go to `SensorPanel → Export` and save the file
+- **Rainmeter:** Right-click your Skin → `Export` and save the file
 
 > 🌟 **الفكرة:** نبني مكتبة من التصاميم الجاهزة — أي مستخدم جديد يمكنه تحميل تصميمك واستخدامه مباشرة!
 >
