@@ -395,6 +395,10 @@ We want to see your creativity! If you've designed a beautiful prayer times pane
 
 > ⚠️ **Note:** GitHub doesn't support uploading `.sensorpanel` or `.rmskin` files directly, so you must compress them as **ZIP** first.
 
+> ✅ **سيتم مراجعة تصميمك من قبل الفريق قبل إضافته للصفحة الرئيسية. شكرًا لصبرك!**
+>
+> ✅ **Your design will be reviewed by the team before being featured on the main page. Thanks for your patience!**
+
 > 🌟 **الفكرة:** نبني مكتبة من التصاميم الجاهزة — أي مستخدم جديد يمكنه تحميل تصميمك واستخدامه مباشرة!
 >
 > 🌟 **The idea:** We're building a library of ready-made designs — any new user can download your design and use it instantly!

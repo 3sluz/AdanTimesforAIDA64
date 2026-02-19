@@ -13,6 +13,10 @@ body:
         > ⚠️ **ملاحظة:** GitHub لا يدعم رفع ملفات `.sensorpanel` أو `.rmskin` مباشرة. يجب عليك **ضغط الملف كـ ZIP** أولاً ثم رفعه.
         >
         > ⚠️ **Note:** GitHub does not support uploading `.sensorpanel` or `.rmskin` files directly. You must **compress the file as ZIP** first, then upload it.
+        
+        > ✅ **سيتم مراجعة تصميمك من قبل الفريق قبل إضافته للصفحة الرئيسية. شكرًا لصبرك!**
+        >
+        > ✅ **Your design will be reviewed by the team before being featured on the main page. Thanks for your patience!**
 
   - type: input
     id: design-name
