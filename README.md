@@ -6,7 +6,17 @@
 
 **Display prayer times on your desktop through AIDA64, Rainmeter, and any monitoring tool**
 
-[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?logo=windows)](https://www.microsoft.com/store)
+<div dir="rtl">
+
+هذه الميزة مقدمة من تطبيق **[أذان — Adan](https://apps.microsoft.com/detail/9MXGH02LVJXX)** لأوقات الصلاة على ويندوز، من تطوير **[3sluz](https://github.com/3sluz)**.
+
+</div>
+
+*This feature is provided by the **[Adan](https://apps.microsoft.com/detail/9MXGH02LVJXX)** prayer times app for Windows, developed by **[3sluz](https://github.com/3sluz)**.*
+
+[![Download Adan](https://img.shields.io/badge/⬇️_حمّل_أذان_|_Download_Adan-0078D6?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/9MXGH02LVJXX)
+
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?logo=windows)](https://apps.microsoft.com/detail/9MXGH02LVJXX)
 [![AIDA64](https://img.shields.io/badge/AIDA64-Supported-orange)](https://www.aida64.com/)
 [![Rainmeter](https://img.shields.io/badge/Rainmeter-Supported-green)](https://www.rainmeter.net/)
 [![License](https://img.shields.io/badge/License-Proprietary-red)]()
@@ -19,15 +29,19 @@
 
 <div dir="rtl">
 
-**جسر البيانات الخارجي** هو نظام ذكي مدمج في تطبيق **أذان** يقوم بكتابة أوقات الصلاة والعد التنازلي والتاريخ الهجري في **سجل ويندوز (Registry)** كل 60 ثانية، مما يتيح لأي تطبيق مراقبة خارجي مثل **AIDA64** أو **Rainmeter** قراءة هذه البيانات وعرضها على سطح المكتب أو على شاشات المراقبة الخارجية.
+**جسر البيانات الخارجي** هو ميزة مدمجة في تطبيق **[أذان](https://apps.microsoft.com/detail/9MXGH02LVJXX)** (متوفر مجانًا على متجر مايكروسوفت). التطبيق يقوم بكتابة أوقات الصلاة والعد التنازلي والتاريخ الهجري تلقائيًا كل 60 ثانية، مما يتيح لبرامج مثل **AIDA64** أو **Rainmeter** قراءة هذه البيانات وعرضها على سطح المكتب أو على شاشات المراقبة.
 
-**الفكرة ببساطة:** تطبيق أذان يعمل في الخلفية ويحدّث البيانات تلقائيًا ← AIDA64 أو Rainmeter يقرأ البيانات من السجل ← تظهر أوقات الصلاة على شاشتك أو على SensorPanel.
+**الفكرة ببساطة:** حمّل تطبيق أذان ← فعّل جسر البيانات من الإعدادات ← AIDA64 أو Rainmeter يعرض أوقات الصلاة على شاشتك.
+
+⬇️ **[حمّل تطبيق أذان من متجر مايكروسوفت](https://apps.microsoft.com/detail/9MXGH02LVJXX)**
 
 </div>
 
-**External Data Bridge** is a smart system built into the **Adan** app that writes prayer times, countdown timers, and the Hijri date to the **Windows Registry** every 60 seconds. This allows any external monitoring tool like **AIDA64** or **Rainmeter** to read and display this data on your desktop or external monitoring screens.
+**External Data Bridge** is a feature built into the **[Adan](https://apps.microsoft.com/detail/9MXGH02LVJXX)** app (available for free on the Microsoft Store). The app automatically writes prayer times, countdown timers, and the Hijri date every 60 seconds, allowing tools like **AIDA64** or **Rainmeter** to read and display this data on your desktop or monitoring screens.
 
-**The idea is simple:** Adan runs in the background and auto-updates data → AIDA64 or Rainmeter reads from the registry → Prayer times appear on your screen or SensorPanel.
+**The idea is simple:** Download the Adan app → Enable the Data Bridge in Settings → AIDA64 or Rainmeter displays prayer times on your screen.
+
+⬇️ **[Download Adan from the Microsoft Store](https://apps.microsoft.com/detail/9MXGH02LVJXX)**
 
 ---
 
