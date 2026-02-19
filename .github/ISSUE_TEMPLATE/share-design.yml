@@ -9,6 +9,10 @@ body:
         ## 🎨 شكرًا لمشاركة تصميمك! | Thanks for sharing your design!
         املأ النموذج أدناه وأرفق صورة وملف التصميم.
         Fill out the form below and attach a screenshot and the design file.
+        
+        > ⚠️ **ملاحظة:** GitHub لا يدعم رفع ملفات `.sensorpanel` أو `.rmskin` مباشرة. يجب عليك **ضغط الملف كـ ZIP** أولاً ثم رفعه.
+        >
+        > ⚠️ **Note:** GitHub does not support uploading `.sensorpanel` or `.rmskin` files directly. You must **compress the file as ZIP** first, then upload it.
 
   - type: input
     id: design-name
@@ -42,16 +46,15 @@ body:
   - type: textarea
     id: design-file
     attributes:
-      label: "📦 ملف التصميم | Design File"
+      label: "📦 ملف التصميم (مضغوط ZIP) | Design File (as ZIP)"
       description: |
-        أرفق ملف التصميم هنا:
-        - AIDA64: اذهب إلى SensorPanel → Export → احفظ الملف (.sensorpanel) ثم اسحبه هنا
-        - Rainmeter: اضغط بزر الفأرة الأيمن على Skin → Export → احفظ الملف (.rmskin) ثم اسحبه هنا
+        ⚠️ يجب ضغط الملف كـ ZIP أولاً! اضغط بزر الفأرة الأيمن على الملف → Send to → Compressed (zipped) folder ثم اسحب ملف الـ ZIP هنا.
 
-        Attach your design file here:
-        - AIDA64: Go to SensorPanel → Export → save file (.sensorpanel) then drag it here
-        - Rainmeter: Right-click Skin → Export → save file (.rmskin) then drag it here
-      placeholder: "اسحب الملف هنا..."
+        ⚠️ You must ZIP the file first! Right-click the file → Send to → Compressed (zipped) folder, then drag the ZIP file here.
+
+        - AIDA64: صدّر من SensorPanel → Export → اضغطه ZIP → ارفعه هنا
+        - Rainmeter: صدّر الـ Skin → اضغطه ZIP → ارفعه هنا
+      placeholder: "اسحب ملف ZIP هنا..."
     validations:
       required: true
 

@@ -370,12 +370,14 @@ We want to see your creativity! If you've designed a beautiful prayer times pane
 2. اكتب اسم تصميمك
 3. اختر الأداة (AIDA64 أو Rainmeter)
 4. **اسحب وأفلت** صورة التصميم في المكان المخصص
-5. **اسحب وأفلت** ملف التصميم (`.sensorpanel` أو `.rmskin`)
+5. **اضغط الملف كـ ZIP** (بزر الفأرة الأيمن → إرسال إلى → مجلد مضغوط) ثم **اسحب وأفلت** ملف الـ ZIP
 6. اضغط **Submit** — وانتهى! ✅
 
 **كيف تصدّر ملف التصميم؟**
-- **AIDA64:** اذهب إلى `SensorPanel → Export` واحفظ الملف
-- **Rainmeter:** اضغط بزر الفأرة الأيمن على الـ Skin → `Export` واحفظ الملف
+- **AIDA64:** اذهب إلى `SensorPanel → Export` واحفظ الملف → اضغطه كـ ZIP
+- **Rainmeter:** اضغط بزر الفأرة الأيمن على الـ Skin → `Export` واحفظ الملف → اضغطه كـ ZIP
+
+> ⚠️ **ملاحظة:** GitHub لا يدعم رفع ملفات `.sensorpanel` أو `.rmskin` مباشرة، لذلك يجب ضغطها كـ **ZIP** أولاً.
 
 </div>
 
@@ -384,12 +386,14 @@ We want to see your creativity! If you've designed a beautiful prayer times pane
 2. Type your design name
 3. Choose the tool (AIDA64 or Rainmeter)
 4. **Drag & drop** your design screenshot into the designated area
-5. **Drag & drop** your design file (`.sensorpanel` or `.rmskin`)
+5. **ZIP the file first** (Right-click → Send to → Compressed folder) then **drag & drop** the ZIP file
 6. Click **Submit** — and you're done! ✅
 
 **How to export your design file?**
-- **AIDA64:** Go to `SensorPanel → Export` and save the file
-- **Rainmeter:** Right-click your Skin → `Export` and save the file
+- **AIDA64:** Go to `SensorPanel → Export` and save the file → ZIP it
+- **Rainmeter:** Right-click your Skin → `Export` and save the file → ZIP it
+
+> ⚠️ **Note:** GitHub doesn't support uploading `.sensorpanel` or `.rmskin` files directly, so you must compress them as **ZIP** first.
 
 > 🌟 **الفكرة:** نبني مكتبة من التصاميم الجاهزة — أي مستخدم جديد يمكنه تحميل تصميمك واستخدامه مباشرة!
 >
